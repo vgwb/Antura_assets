@@ -1,12 +1,12 @@
 # Assets for Antura and the Letters game
 
-all the original assets for the game "Antura and the Letters", part of the [EduApp4Syria (EA4S) initiative](https://www.norad.no/eduapp4syria), produced by [TH Köln / Cologne Game Lab](http://www.colognegamelab.de/), [Video Games Without Borders](http://vgwb.org) & [Wixel Studios](www.wixelstudios.com).
+all the original production assets for the game "Antura and the Letters", part of the [EduApp4Syria (EA4S) initiative](https://www.norad.no/eduapp4syria), produced by [TH Köln / Cologne Game Lab](http://www.colognegamelab.de/), [Video Games Without Borders](http://vgwb.org) & [Wixel Studios](www.wixelstudios.com).
 
 **NOTE**: these are just the original assets before the conversion for the Unity project
 
 ## Project references
-- **Developer Docs:** [vgwb.github.io/Antura_arabic](https://vgwb.github.io/Antura_arabic)
-- **Source Code:** [github.com/vgwb/Antura_arabic](https://github.com/vgwb/Antura_arabic)
+- **Developer Docs:** [vgwb.github.io/Antura](https://vgwb.github.io/Antura)
+- **Source Code:** [github.com/vgwb/Antura](https://github.com/vgwb/Antura)
 - **Public Website:** [www.antura.org](http://www.antura.org)
 
 ## Licensing
